@@ -1,0 +1,6 @@
+Food is the biggest expense.
+Mobile is the second-highest expense.
+Gym and Others are the lowest expenses.
+Average daily spending is around 202.
+Snacks cost less than Food but more than Gym and Others.
+The model predicts daily spending fairly accurately, with an average error of about 43 units per day.
