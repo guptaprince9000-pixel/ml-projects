@@ -1,0 +1,5 @@
+## Insights from Model
+
+1. MonthlySpend increases with both Age and Income.
+2. Higher income contributes more to spending than age.
+3. The model predictions are reasonably accurate (MAE = 377), so it can help estimate spending patterns.
