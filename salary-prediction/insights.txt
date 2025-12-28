@@ -1,0 +1,2 @@
+Salary increases as experience increases
+Model can estimate salary but is not 100% accurate
