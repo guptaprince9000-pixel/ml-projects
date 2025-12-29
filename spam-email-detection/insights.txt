@@ -1,0 +1,7 @@
+Text data must be converted into numerical form before training a machine learning model.
+Label encoding helps convert categorical labels like Spam and Not Spam into numeric values (1 and 0).
+Spam emails often contain repeated words related to offers, money, or urgency.
+Naive Bayes works well for text classification because it handles word frequencies efficiently.
+The model predicts whether an email is spam based on patterns learned from previous emails.
+This project demonstrates how machine learning can automate email filtering.
+Even with a small dataset, the model can learn useful patterns for classification tasks.

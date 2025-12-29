@@ -1,0 +1,7 @@
+## Insights
+
+1. Higher Advertising spend directly increases Sales.  
+2. More Store Visitors lead to higher Sales.  
+3. Higher Competitor Prices slightly decrease Sales.  
+4. The model predictions are reasonably close to actual Sales (check MAE).  
+5. This notebook can help the business forecast monthly Sales and plan budgets.

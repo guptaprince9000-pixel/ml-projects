@@ -1,0 +1,5 @@
+## Insights
+
+1. Credit history is the most important factor in loan approval.
+2. Applicants with good credit history are more likely to get loans approved.
+3. Logistic regression is suitable for yes/no prediction problems.
